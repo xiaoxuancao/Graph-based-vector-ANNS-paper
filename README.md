@@ -3,10 +3,11 @@ Graph-based vector ANNS paper
 
 
 <!-- no-auto-toc -->
-- [0. Graph-index](#0-graph-index)
 - [1. Graph-survey](#1-graph-based)
-- [2. Graph-enhanced-index](#2-graph-based)
-- [3. Graph-enhanced-search](#3-graph-based)
+- [2. Graph-index](#0-graph-index)
+- [3. Graph-theory](#1-graph-based)
+- [4. Graph-enhanced-index](#2-graph-based)
+- [5. Graph-enhanced-search](#3-graph-based)
 
 
 
