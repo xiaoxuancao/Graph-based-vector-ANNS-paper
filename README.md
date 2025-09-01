@@ -53,6 +53,6 @@ Graph-based vector ANNS paper
 | Title   | Venue   |  Link   | note |
 |---------|---------|--------|--------|
 | Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art | SIGMOD2025 |  [link](https://dl.acm.org/doi/pdf/10.1145/3709693) | |
-| iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search | SIGMOD2025 | [link](https://dl.acm.org/doi/pdf/10.1145/3698814) | |
-| Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities| KDD2025 | [link](https://www.computer.org/csdl/proceedings-article/icde/2025/360300c380/26FZASdBxBu)| entry points |
+| HVS: hierarchical graph structure based on voronoi diagrams for solving approximate nearest neighbor search. | VLDB2022 | [link](https://www.vldb.org/pvldb/vol15/p246-lu.pdf) | entry points |
+| Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities| KDD2025 | | entry points |
 
