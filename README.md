@@ -1,6 +1,7 @@
 # Graph-based-vector-ANNS-paper
 Graph-based vector ANNS paper
 
+## The latest update: 2025_09_09
 
 <!-- no-auto-toc -->
 - [1. survey](#1-graph-based)
