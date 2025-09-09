@@ -29,36 +29,34 @@ Graph-based vector ANNS paper
 | Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph. | VLDB2019 | [link](https://www.vldb.org/pvldb/vol12/p461-fu.pdf) |NSG|
 | High Dimensional Similarity Search with Satellite System Graph: Efficiency, Scalability, and Unindexed Query Compatibility.| TPAMI2021 | [link](https://arxiv.org/pdf/1907.06146)|NSSG|
 
-### 3.  experiment-and-theory
+### 3.  experiment-or-theory
 
 
 | Title   | Venue   |  Link   | note |
 |---------|---------|--------|--------|
-| Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art | SIGMOD2025 |  [link](https://dl.acm.org/doi/pdf/10.1145/3709693) | |
-| A Note on Graph-Based Nearest Neighbor Search |  |  | |
-| Down with the Hierarchy: The ‘H’ in HNSW Stands for “Hubs” [Experiment, Analysis & Benchmark]|  | | |
-| The role of local dimensionality measures in benchmarking nearest neighbor search. |  | | |
-| A comparative study on hierar chical navigable small world graphs.  |  | | |
-| Graph based nearest neighbor search:  Promises and failures.  |  | | |
-| High dimensional similarity search with satellite system graph: Efficiency, scalability, and unindexed query compatibility.  |  | | |
-| Worst-case performance of popular approximate nearest neighbor search implementations: Guarantees and limitations.  |  | | |
-| Graph-based Nearest Neighbor Search: From Practice to Theory.  |  | | |
-| The Impacts of Data, Ordering, and Intrinsic Dimensionality on Recall in Hierarchical Navigable Small Worlds.  |  | | |
+| A Note on Graph-Based Nearest Neighbor Search. |2020arxiv|[link](https://arxiv.org/pdf/2012.11083) | |
+| Down with the Hierarchy: The ‘H’ in HNSW Stands for “Hubs” [Experiment, Analysis & Benchmark]|2024arxiv|[link](https://arxiv.org/pdf/2412.01940?) | |
+| The role of local dimensionality measures in benchmarking nearest neighbor search. |2021IS|[link](https://doi.org/10.1016/j.is.2021.101807) |LID|
+| A comparative study on hierar chical navigable small world graphs.  | 2019 | | |
+| Graph based nearest neighbor search:  Promises and failures.  |2019arxiv|[link](https://arxiv.org/pdf/1904.02077)| |
+| Worst-case performance of popular approximate nearest neighbor search implementations: Guarantees and limitations.  |2023NeurIPS|[link](https://proceedings.neurips.cc/paper_files/paper/2023/file/d0ac28b79816b51124fcc804b2496a36-Paper-Conference.pdf)| |
+| Graph-based Nearest Neighbor Search: From Practice to Theory.|2020ICML|[link](https://proceedings.mlr.press/v119/prokhorenkova20a.html)| |
+| The Impacts of Data, Ordering, and Intrinsic Dimensionality on Recall in Hierarchical Navigable Small Worlds. |2024ICTIR|[link](dl.acm.org/doi/abs/10.1145/3664190.3672512)| |
 
 ### 4.  enhanced-index
 
 
 | Title   | Venue   |  Link   | note |
 |---------|---------|--------|--------|
-| RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search. |  |   | |
-| Approximate Nearest Neighbor Query Processing on High Dimensional Data with a Learned Index.|  | | |
-| Graph Based K-Nearest Neighbor Search Revisited. |  | | |
-| Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities| KDD2025 | | entry points |
-| Learned Probing Cardinality Estimation for High-Dimensional Approximate NN Search.|  | |  |
+| RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search. |  |   |ood|
+| Approximate Nearest Neighbor Query Processing on High Dimensional Data with a Learned Index.|  | |learning|
+| Graph Based K-Nearest Neighbor Search Revisited. |  | |adaptive|
+| Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities| KDD2025 | | learning, entry points |
+| Learned Probing Cardinality Estimation for High-Dimensional Approximate NN Search.|  | |learning|
 | SPREADING VECTORS FOR SIMILARITY SEARCH.|  | |  |
 | GraSP: Optimizing Graph-based Nearest Neighbor Search with Subgraph Sampling and Pruning.|  | |  |
 | HNSW++: A Dual-Branch Hierarchical Navigable Small World Graph with LID-Guided Skip Bridge Optimization.|  | |  |
-|HVS: hierarchical graph structure based on voronoi diagrams for solving approximate nearest neighbor search.|  | |  |
+| HVS: hierarchical graph structure based on voronoi diagrams for solving approximate nearest neighbor search.|  | |  |
 
 ### 5.  enhanced-search
 
