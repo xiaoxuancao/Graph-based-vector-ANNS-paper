@@ -4,11 +4,11 @@ Graph-based vector ANNS paper
 ## The latest update: 2025_09_09
 
 <!-- no-auto-toc -->
-- [1. survey](#1-survey)
-- [2. index](#0-graph-index)
-- [3. experiment-and-theory](#1-graph-based)
-- [4. enhanced-index](#2-graph-based)
-- [5. enhanced-search](#3-graph-based)
+- [1. survey](#1-survey)        
+- [2. index](#2-index)           
+- [3. experiment-and-theory](#3-experiment-and-theory) 
+- [4. enhanced-index](#4-enhanced-index)
+- [5. enhanced-search](#5-enhanced-search)
 
 
 
@@ -73,7 +73,7 @@ Graph-based vector ANNS paper
 | Hierarchical clustering-based graphs for large scale approximate nearest neighbor search.|2019PR|[link](https://www.sciencedirect.com/science/article/pii/S0031320319302730?via%3Dihub)|route|
 | FINGER: fast inference for graph-based approximate nearest neighbor search.|2023WWW|[link](https://arxiv.org/abs/2206.11408)|projection, route|
 | Improving Approximate Nearest Neighbor Search through Learned Adaptive Early Termination.|2020SIGMOD|[link](https://dl.acm.org/doi/10.1145/3318464.3380600)|early termination|
-| DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search.|2025SIGMOD[link](https://arxiv.org/abs/2505.19001)|early termination|
+| DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search.|2025SIGMOD|[link](https://arxiv.org/abs/2505.19001)|early termination|
 
 
 ## Contribution
