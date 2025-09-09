@@ -4,9 +4,9 @@ Graph-based vector ANNS paper
 ## The latest update: 2025_09_09
 
 <!-- no-auto-toc -->
-- [1. survey](#1-survey)        
-- [2. index](#2-index)           
-- [3. experiment-and-theory](#3-experiment-and-theory) 
+- [1. survey](#1-survey)
+- [2. index](#2-index)
+- [3. experiment-or-theory](#3-experiment-or-theory)
 - [4. enhanced-index](#4-enhanced-index)
 - [5. enhanced-search](#5-enhanced-search)
 
