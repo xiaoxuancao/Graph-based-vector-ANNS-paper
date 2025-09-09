@@ -25,9 +25,9 @@ Graph-based vector ANNS paper
 
 | Title   | Venue   |  Link   | note |
 |---------|---------|--------|--------|
-| Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art | SIGMOD2025 |  [link](https://dl.acm.org/doi/pdf/10.1145/3709693) | |
-| iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search | SIGMOD2025 | [link](https://dl.acm.org/doi/pdf/10.1145/3698814) | |
-| Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search| ICDE2025 | [link](https://www.computer.org/csdl/proceedings-article/icde/2025/360300c380/26FZASdBxBu)| |
+| Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs. | TPAMI2018 |  [link](https://www.researchgate.net/publication/259126397_Approximate_nearest_neighbor_algorithm_based_on_navigable_small_world_graphs) |HNSW|
+| Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph. | VLDB2019 | [link](https://www.vldb.org/pvldb/vol12/p461-fu.pdf) |NSG|
+| High Dimensional Similarity Search with Satellite System Graph: Efficiency, Scalability, and Unindexed Query Compatibility.| TPAMI2021 | [link](https://arxiv.org/pdf/1907.06146)|NSSG|
 
 ### 3.  experiment-and-theory
 
