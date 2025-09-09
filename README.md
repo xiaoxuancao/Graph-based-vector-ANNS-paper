@@ -16,9 +16,8 @@ Graph-based vector ANNS paper
 
 | Title   | Venue   |  Link   | note |
 |---------|---------|--------|--------|
-| Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art | SIGMOD2025 |  [link](https://dl.acm.org/doi/pdf/10.1145/3709693) | |
-| A comprehensive survey and experimental comparison of graph-based approximate nearest neighbor search. |  |  | |
-| Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search| ICDE2025 | [link](https://www.computer.org/csdl/proceedings-article/icde/2025/360300c380/26FZASdBxBu)| |
+| Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art. | SIGMOD2025 |  [link](https://dl.acm.org/doi/abs/10.1145/3709693) | |
+| A comprehensive survey and experimental comparison of graph-based approximate nearest neighbor search. | VLDB2021 |  [link](https://www.vldb.org/pvldb/vol14/p1964-wang.pdf) | |
 
 ### 2.  index
 
