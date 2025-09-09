@@ -12,7 +12,7 @@ Graph-based vector ANNS paper
 
 
 
-### 1.  survey
+### 1. survey
 
 
 | Title   | Venue   |  Link   | note |
@@ -20,7 +20,7 @@ Graph-based vector ANNS paper
 | Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art. | SIGMOD2025 |  [link](https://dl.acm.org/doi/abs/10.1145/3709693) | |
 | A comprehensive survey and experimental comparison of graph-based approximate nearest neighbor search. | VLDB2021 |  [link](https://www.vldb.org/pvldb/vol14/p1964-wang.pdf) | |
 
-### 2.  index
+### 2. index
 
 
 | Title   | Venue   |  Link   | note |
@@ -29,7 +29,7 @@ Graph-based vector ANNS paper
 | Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph. | VLDB2019 | [link](https://www.vldb.org/pvldb/vol12/p461-fu.pdf) |NSG|
 | High Dimensional Similarity Search with Satellite System Graph: Efficiency, Scalability, and Unindexed Query Compatibility.| TPAMI2021 | [link](https://arxiv.org/pdf/1907.06146)|NSSG|
 
-### 3.  experiment-or-theory
+### 3. experiment-or-theory
 
 
 | Title   | Venue   |  Link   | note |
@@ -45,7 +45,7 @@ Graph-based vector ANNS paper
 | Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits.|2024NeurIPS|[link](https://arxiv.org/pdf/2405.18680)| |
 
 
-### 4.  enhanced-index
+### 4. enhanced-index
 
 
 | Title   | Venue   |  Link   | note |
@@ -60,7 +60,7 @@ Graph-based vector ANNS paper
 | HNSW++: A Dual-Branch Hierarchical Navigable Small World Graph with LID-Guided Skip Bridge Optimization.|2025AMCIS|[link](https://aisel.aisnet.org/amcis2025/intelfuture/intelfuture/47/)|  |
 | HVS: hierarchical graph structure based on voronoi diagrams for solving approximate nearest neighbor search.|2021VLDB|[link](https://dl.acm.org/doi/10.14778/3489496.3489506)|  |
 
-### 5.  enhanced-search
+### 5. enhanced-search
 
 
 | Title   | Venue   |  Link   | note |
