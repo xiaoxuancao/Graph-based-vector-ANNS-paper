@@ -51,13 +51,13 @@ Graph-based vector ANNS paper
 | Title   | Venue   |  Link   | note |
 |---------|---------|--------|--------|
 | RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search. |2024VLDB|[link](https://arxiv.org/abs/2408.08933)|ood|
-| Approximate Nearest Neighbor Query Processing on High Dimensional Data with a Learned Index.|  | |learning|
-| Graph Based K-Nearest Neighbor Search Revisited. |  | |adaptive|
-| Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities| 2025KDD | | learning, entry points |
-| Learned Probing Cardinality Estimation for High-Dimensional Approximate NN Search.|  | |learning|
+| Approximate Nearest Neighbor Query Processing on High Dimensional Data with a Learned Index.|2025ICCE|[link](https://ieeexplore.ieee.org/abstract/document/10930213)|learning|
+| Graph Based K-Nearest Neighbor Search Revisited. |2025TOIS|[link](https://dl.acm.org/doi/full/10.1145/3736716)|adaptive|
+| Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities.| 2025KDD |[link](https://dl.acm.org/doi/abs/10.1145/3711896.3736930)| learning, entry points |
+| Learned Probing Cardinality Estimation for High-Dimensional Approximate NN Search.|2023ICDE|[link](https://ieeexplore.ieee.org/abstract/document/10184837)|learning|
 | SPREADING VECTORS FOR SIMILARITY SEARCH.|2019ICLR|[link](https://arxiv.org/abs/1806.03198)|learning|
-| GraSP: Optimizing Graph-based Nearest Neighbor Search with Subgraph Sampling and Pruning.|  | |  |
-| HNSW++: A Dual-Branch Hierarchical Navigable Small World Graph with LID-Guided Skip Bridge Optimization.|  | |  |
+| GraSP: Optimizing Graph-based Nearest Neighbor Search with Subgraph Sampling and Pruning.|2022WSDM|[link](dl.acm.org/doi/abs/10.1145/3488560.3498425)|  |
+| HNSW++: A Dual-Branch Hierarchical Navigable Small World Graph with LID-Guided Skip Bridge Optimization.|2025AMCIS|[link](https://aisel.aisnet.org/amcis2025/intelfuture/intelfuture/47/)|  |
 | HVS: hierarchical graph structure based on voronoi diagrams for solving approximate nearest neighbor search.|2021VLDB|[link](https://dl.acm.org/doi/10.14778/3489496.3489506)|  |
 
 ### 5.  enhanced-search
@@ -70,11 +70,11 @@ Graph-based vector ANNS paper
 | Probabilistic Routing for Graph-Based Approximate Nearest Neighbor Search.|  | |  |
 | Two-stage routing with optimized guided search and greedy algorithm on proximity graph.|  | |  |
 | Routing-Guided Learned Product Quantization for Graph-Based Approximate Nearest Neighbor Search.|  | |  |
-| Hierarchical clustering-based graphs for large scale approximate nearest neighbor search.|2019PR|[link](https://www.sciencedirect.com/science/article/pii/S0031320319302730?via%3Dihub)|  |
-| FINGER: fast inference for graph-based approximate nearest neighbor search.|2023WWW|[link](https://arxiv.org/abs/2206.11408)|projection|
+| Hierarchical clustering-based graphs for large scale approximate nearest neighbor search.|2019PR|[link](https://www.sciencedirect.com/science/article/pii/S0031320319302730?via%3Dihub)|route|
+| FINGER: fast inference for graph-based approximate nearest neighbor search.|2023WWW|[link](https://arxiv.org/abs/2206.11408)|projection, route|
 | Improving Approximate Nearest Neighbor Search through Learned Adaptive Early Termination.|2020SIGMOD|[link](https://dl.acm.org/doi/10.1145/3318464.3380600)|early termination|
 | Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search.|  | |  |
-| Improving Approximate Nearest Neighbor Search through Learned Adaptive Early Termination.|  | |  |
+
 
 ## Contribution
 We welcome contribution.
