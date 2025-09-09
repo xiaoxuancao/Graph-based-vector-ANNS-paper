@@ -4,7 +4,7 @@ Graph-based vector ANNS paper
 ## The latest update: 2025_09_09
 
 <!-- no-auto-toc -->
-- [1. survey](#1-graph-based)
+- [1. survey](#1-survey)
 - [2. index](#0-graph-index)
 - [3. experiment-and-theory](#1-graph-based)
 - [4. enhanced-index](#2-graph-based)
@@ -34,8 +34,8 @@ Graph-based vector ANNS paper
 
 | Title   | Venue   |  Link   | note |
 |---------|---------|--------|--------|
-| A Note on Graph-Based Nearest Neighbor Search. |2020arxiv|[link](https://arxiv.org/pdf/2012.11083) | |
-| Down with the Hierarchy: The ‘H’ in HNSW Stands for “Hubs” [Experiment, Analysis & Benchmark]|2024arxiv|[link](https://arxiv.org/pdf/2412.01940?) | |
+| A Note on Graph-Based Nearest Neighbor Search. |2020|[link](https://arxiv.org/pdf/2012.11083) | |
+| Down with the Hierarchy: The ‘H’ in HNSW Stands for “Hubs” [Experiment, Analysis & Benchmark]|2024|[link](https://arxiv.org/pdf/2412.01940?) | |
 | The role of local dimensionality measures in benchmarking nearest neighbor search. |2021IS|[link](https://doi.org/10.1016/j.is.2021.101807) | |
 | A comparative study on hierar chical navigable small world graphs.  | 2019 | | |
 | Graph based nearest neighbor search:  Promises and failures.  |2019arxiv|[link](https://arxiv.org/pdf/1904.02077)| |
@@ -67,13 +67,13 @@ Graph-based vector ANNS paper
 |---------|---------|--------|--------|
 | Learning to Route in Similarity Graphs. |2019ICML|[link](https://arxiv.org/abs/1905.10987)|learning, route|
 | Reinforcement Routing on Proximity Graph for Efficient Recommendation. |2023TOIS|[link](https://dl.acm.org/doi/10.1145/3512767)|learning, route|
-| Probabilistic Routing for Graph-Based Approximate Nearest Neighbor Search.|  | |  |
-| Two-stage routing with optimized guided search and greedy algorithm on proximity graph.|  | |  |
-| Routing-Guided Learned Product Quantization for Graph-Based Approximate Nearest Neighbor Search.|  | |  |
+| Probabilistic Routing for Graph-Based Approximate Nearest Neighbor Search.|2024|[link](https://arxiv.org/pdf/2402.11354)|route |
+| Two-stage routing with optimized guided search and greedy algorithm on proximity graph.|2021KBS|[link](https://www.sciencedirect.com/science/article/pii/S0950705121005670)|route|
+| Routing-Guided Learned Product Quantization for Graph-Based Approximate Nearest Neighbor Search.|2024ICDE|[link](https://ieeexplore.ieee.org/abstract/document/10598122)|route|
 | Hierarchical clustering-based graphs for large scale approximate nearest neighbor search.|2019PR|[link](https://www.sciencedirect.com/science/article/pii/S0031320319302730?via%3Dihub)|route|
 | FINGER: fast inference for graph-based approximate nearest neighbor search.|2023WWW|[link](https://arxiv.org/abs/2206.11408)|projection, route|
 | Improving Approximate Nearest Neighbor Search through Learned Adaptive Early Termination.|2020SIGMOD|[link](https://dl.acm.org/doi/10.1145/3318464.3380600)|early termination|
-| Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search.|  | |  |
+| DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search.|2025SIGMOD[link](https://arxiv.org/abs/2505.19001)|early termination|
 
 
 ## Contribution
