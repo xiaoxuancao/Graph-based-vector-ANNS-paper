@@ -38,7 +38,7 @@ Graph-based vector ANNS paper
 | Down with the Hierarchy: The ‘H’ in HNSW Stands for “Hubs” [Experiment, Analysis & Benchmark]|2024|[link](https://arxiv.org/pdf/2412.01940?) | |
 | The role of local dimensionality measures in benchmarking nearest neighbor search. |2021IS|[link](https://doi.org/10.1016/j.is.2021.101807) | |
 | A comparative study on hierar chical navigable small world graphs.  | 2019 | | |
-| Graph based nearest neighbor search:  Promises and failures.  |2019arxiv|[link](https://arxiv.org/pdf/1904.02077)| |
+| Graph based nearest neighbor search:  Promises and failures.  |2019|[link](https://arxiv.org/pdf/1904.02077)| |
 | Worst-case performance of popular approximate nearest neighbor search implementations: Guarantees and limitations.  |2023NeurIPS|[link](https://proceedings.neurips.cc/paper_files/paper/2023/file/d0ac28b79816b51124fcc804b2496a36-Paper-Conference.pdf)| |
 | Graph-based Nearest Neighbor Search: From Practice to Theory.|2020ICML|[link](https://proceedings.mlr.press/v119/prokhorenkova20a.html)| |
 | The Impacts of Data, Ordering, and Intrinsic Dimensionality on Recall in Hierarchical Navigable Small Worlds. |2024ICTIR|[link](dl.acm.org/doi/abs/10.1145/3664190.3672512)| |
